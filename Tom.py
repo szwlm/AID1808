@@ -1,1 +1,1 @@
-这是谁的家
+print("this is tom's home")
